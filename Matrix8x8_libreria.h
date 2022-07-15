@@ -1,0 +1,12 @@
+void desplegarNombre(void);
+void CERO(void);
+void UNO(void);
+void DOS(void);
+void TRES(void);
+void CUATRO(void);
+void CINCO(void);
+void SEIS(void);
+void SIETE(void);
+void OCHO(void);
+void NUEVE(void);
+void PUNTODEC(void);
